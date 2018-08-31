@@ -1,3 +1,7 @@
+# Welcome to my Portfolio Site!
+
+To Fire up the browser go to http://stroupjason/github.io/portfolio
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/stroupjason/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

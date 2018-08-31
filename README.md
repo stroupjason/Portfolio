@@ -1,6 +1,12 @@
 # Welcome to my Portfolio Site!
 
-To Fire up the browser go to http://stroupjason/github.io/portfolio
+To Fire up the browser go to https://stroupjason/github.io/portfolio
+
+
+
+
+
+See notes below:
 
 ## Welcome to GitHub Pages
 
